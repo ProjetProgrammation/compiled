@@ -1,0 +1,13 @@
+INSTRUCTIONS DE COMPILATION
+###########################
+
+ 1 - Ouvrir les 2 projets dans Netbeans (version 8)
+ 2 - Exécuter ProjetProgAdmin (clic droit sur le projet > Run) [permet de c$
+ 3 - Compiler les 2 projets (clic droit sur le projet > Clean and build)
+ 4 - Récupérer les contenus des répertoire "dist" pour chaque projet et les$
+ 5 - Créer la hiérarchie de répertoires avec le script "init_repo.sh"
+ 6 - Ajouter la feuille css qui se trouve dans "pdpafkv/src/Resources/Windo$
+ 7 - Utilisation de l'application d'administration :
+        java -jar ProjetProgAdmin.jar [add|rm|ls] [audio|question|video] [f$
+
+ 
